@@ -4,10 +4,8 @@ import { CardElement, injectStripe } from 'react-stripe-elements';
 function CheckoutForm(props) {
   const [isComplete, setComplete] = useState(false);
 
-  
-  
-  //localStorage is like a `save` button for your browser. This is displayed 
-//   in the `Local Storage` shown in the Application tab of Chrome developer
+  //localStorage is like a `save` button for your browser. This is displayed
+  //   in the `Local Storage` shown in the Application tab of Chrome developer
   localStorage.setItem('proppy', JSON.stringify(props));
 
   localStorage.getItem('proppy');

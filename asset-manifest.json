@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-stripe-cc/static/css/main.34de6062.chunk.css",
-    "main.js": "/react-stripe-cc/static/js/main.63a4ce15.chunk.js",
-    "main.js.map": "/react-stripe-cc/static/js/main.63a4ce15.chunk.js.map",
-    "runtime~main.js": "/react-stripe-cc/static/js/runtime~main.62372777.js",
-    "runtime~main.js.map": "/react-stripe-cc/static/js/runtime~main.62372777.js.map",
-    "static/js/2.d684ec87.chunk.js": "/react-stripe-cc/static/js/2.d684ec87.chunk.js",
-    "static/js/2.d684ec87.chunk.js.map": "/react-stripe-cc/static/js/2.d684ec87.chunk.js.map",
-    "index.html": "/react-stripe-cc/index.html",
-    "precache-manifest.3cab35239722ba40cd3fbc1fa76f277f.js": "/react-stripe-cc/precache-manifest.3cab35239722ba40cd3fbc1fa76f277f.js",
-    "service-worker.js": "/react-stripe-cc/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/react-stripe-cc/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/css/main.34de6062.chunk.css",
+    "main.js": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/js/main.128fa204.chunk.js",
+    "main.js.map": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/js/main.128fa204.chunk.js.map",
+    "runtime~main.js": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/js/runtime~main.a3d7b87c.js",
+    "runtime~main.js.map": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/js/runtime~main.a3d7b87c.js.map",
+    "static/js/2.d684ec87.chunk.js": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/js/2.d684ec87.chunk.js",
+    "static/js/2.d684ec87.chunk.js.map": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/js/2.d684ec87.chunk.js.map",
+    "index.html": "/jrdukes/react-stripe-cc/blob/master/public/index.html/index.html",
+    "precache-manifest.3bf19259ae232981a6c6e8d890e42352.js": "/jrdukes/react-stripe-cc/blob/master/public/index.html/precache-manifest.3bf19259ae232981a6c6e8d890e42352.js",
+    "service-worker.js": "/jrdukes/react-stripe-cc/blob/master/public/index.html/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/jrdukes/react-stripe-cc/blob/master/public/index.html/static/css/main.34de6062.chunk.css.map"
   }
 }

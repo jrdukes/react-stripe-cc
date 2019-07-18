@@ -28,7 +28,7 @@ function CheckoutForm(props) {
     console.log(props);
   };
 
-  if (isComplete) return <h1>PURCHASE</h1>;
+  if (isComplete) return <h1>PURCHASE COMPLETED</h1>;
 
   return (
     <div>
